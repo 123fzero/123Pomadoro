@@ -2,6 +2,8 @@
 
 Classic Pomodoro timer for focused work. Run focus sessions, take short breaks, and finish with a long break, with vibration and sound cues on each phase change.
 
+Current version: `1.1.3`
+
 ## Features
 
 - **Classic Pomodoro flow** — focus sessions, short breaks, final long break
@@ -11,6 +13,7 @@ Classic Pomodoro timer for focused work. Run focus sessions, take short breaks, 
 - **Persistent settings** — saved on SD card
 - **Haptic and sound alerts** for phase transitions
 - **Lightweight session animations** for focus and break states
+- **Tomato app icon** in the Flipper app list
 
 ## Screenshots
 

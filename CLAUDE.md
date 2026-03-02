@@ -5,9 +5,12 @@
 - Every commit must bump the version in `VERSION` using semver.
 - Every commit must keep `application.fam` `fap_version` aligned to the same major/minor version.
 - Every version commit must also create a matching git tag in the form `vX.Y.Z`.
+- Current released version: `1.1.3`.
 
 ## Release Checklist
 - Bump `VERSION`.
 - Update `application.fam` `fap_version`.
 - Commit the changes.
 - Create git tag `vX.Y.Z` on that commit.
+- Push the commit and tag to `origin`.
+- Deploy the matching build to the Flipper when requested.
