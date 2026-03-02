@@ -1,0 +1,16 @@
+App(
+    appid="pomadoro",
+    name="123Pomadoro",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="pomadoro_app",
+    stack_size=2 * 1024,
+    fap_version=(1, 1),
+    fap_category="Tools",
+    fap_description="Classic Pomodoro timer with guided breaks",
+    fap_author="@colinfrl",
+    requires=[
+        "gui",
+        "notification",
+        "storage",
+    ],
+)
