@@ -11,7 +11,7 @@ void pomadoro_scene_about_on_enter(void* context) {
         0,
         128,
         64,
-        "123Pomadoro v1.1.1\n"
+        "123Pomadoro v1.1.2\n"
         "Classic focus timer\n"
         "for Flipper Zero\n\n"
         "Flow: focus, short\n"

@@ -164,7 +164,7 @@ static void pomadoro_scene_settings_build_list(PomadoroApp* app) {
     variable_item_set_current_value_index(item, app->settings.sound_mode);
     variable_item_set_current_value_text(item, sound_labels[app->settings.sound_mode]);
 
-    item = variable_item_list_add(app->variable_item_list, "Factory Reset", 1, NULL, app);
+    item = variable_item_list_add(app->variable_item_list, "Reset Settings", 1, NULL, app);
     variable_item_set_current_value_index(item, 0);
     variable_item_set_current_value_text(item, "Reset");
 }

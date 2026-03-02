@@ -7,7 +7,7 @@ Classic Pomodoro timer for focused work. Run focus sessions, take short breaks, 
 - **Classic Pomodoro flow** — focus sessions, short breaks, final long break
 - **Configurable timers** — focus, short break, long break, and round count
 - **Pause/Resume** with OK
-- **Factory Reset** in settings
+- **Reset Settings** action in settings
 - **Persistent settings** — saved on SD card
 - **Haptic and sound alerts** for phase transitions
 - **Lightweight session animations** for focus and break states
@@ -21,7 +21,7 @@ Classic Pomodoro timer for focused work. Run focus sessions, take short breaks, 
 │  > Start Cycle             │   │ Short Break          < 5m >│
 │    Settings                │   │ Long Break          < 15m >│
 │    About                   │   │ Rounds                < 4 >│
-│                            │   │ Factory Reset      < Reset>│
+│                            │   │ Reset Settings    < Reset> │
 │                            │   │                            │
 └────────────────────────────┘   └────────────────────────────┘
          Main Menu                         Settings
